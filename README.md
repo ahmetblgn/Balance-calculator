@@ -33,7 +33,7 @@ This script reads an Excel file containing financial transactions and processes 
 Run the script using:
 
 ```sh
-python script.py
+python balance_calculator.py
 ```
 
 
@@ -71,7 +71,7 @@ Bu script, finansal işlemleri içeren bir Excel dosyasını okuyarak:
 Scripti çalıştırmak için:
 
 ```sh
-python script.py
+python balance_calculator.py
 ```
 
 
