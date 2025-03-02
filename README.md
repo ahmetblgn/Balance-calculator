@@ -36,7 +36,6 @@ Run the script using:
 python script.py
 ```
 
-Make sure the file path and sheet name match your actual Excel file.
 
 ---
 
@@ -75,5 +74,4 @@ Scripti çalıştırmak için:
 python script.py
 ```
 
-Dosya yolu ve sayfa adının Excel dosyanız ile uyumlu olduğundan emin olun.
 
